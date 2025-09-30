@@ -1,5 +1,6 @@
 # PetCare 360 - Sistema de Gestión Veterinaria
-
+## Autor: Samuel Leonardo Albarracin Vergara
+## Equipo de refuerzo Azul
 ## Descripción
 Sistema integral para la gestión de veterinarias que permite administrar mascotas, citas médicas, venta de productos y facturación electrónica.
 
