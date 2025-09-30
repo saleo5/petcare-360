@@ -57,7 +57,9 @@ Sistema integral para la gestión de veterinarias que permite administrar mascot
 -  Ventas:  
 ![alt text](docs/UML/Ventas.png)
 #### Diagrama de clases preliminar:
-![alt text](docs/UML/Clases.png)
+![alt text](docs/UML/Clases1.png)
+![alt text](docs/UML/Clases2.png)
+
 
 ### Identificación de patrones de diseño:  
 - Factory Method: lo uso ya que encontramos un problema, el cual es que hay diferentes tipos de facturas con lógicas de creación distintas  
